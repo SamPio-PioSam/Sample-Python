@@ -1,2 +1,1 @@
-# SleepingApp
-Piotr's Sleeping App -python kivy
+Its a sample python project cus sleeping app would need java
